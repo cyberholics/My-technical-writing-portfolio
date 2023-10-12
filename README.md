@@ -1,4 +1,4 @@
-# Some of my technical blog posts
+# Collections of some technical blog posts I wrote
 
 [How to identify IoT devices with machine learning](https://dev.to/cyber_holics/how-to-identify-iot-devices-with-machine-learning-3j32)
 
