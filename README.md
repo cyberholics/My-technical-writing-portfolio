@@ -1,4 +1,6 @@
+
 # Collection of my technical articles 
+[Revolutionising Pull Requests: CodiumAI PR Agent vs GitHub Copilot for an Enchanting PR](https://dev.to/cyber_holics/revolutionising-pull-requests-codiumai-pr-agent-vs-github-copilot-for-an-enchanting-pr-experience-278p)
 
 [How to identify IoT devices with machine learning](https://dev.to/cyber_holics/how-to-identify-iot-devices-with-machine-learning-3j32)
 
