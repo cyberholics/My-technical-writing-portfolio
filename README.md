@@ -1,5 +1,7 @@
 
 # Collection of my technical articles 
+[Introduction To Tensors: The Building Blocks Of Artificial Intelligence](https://dev.to/cyber_holics/introduction-to-tensors-the-building-blocks-of-artificial-intelligence-3lcb)
+
 [A Step-by-Step Guide to Deploying a Machine Learning Model in a Docker Container](https://dev.to/cyber_holics/a-step-by-step-guide-to-deploying-a-machine-learning-model-in-a-docker-container-nkp)
 
 [Revolutionising Pull Requests: CodiumAI PR Agent vs GitHub Copilot for an Enchanting PR](https://dev.to/cyber_holics/revolutionising-pull-requests-codiumai-pr-agent-vs-github-copilot-for-an-enchanting-pr-experience-278p)
