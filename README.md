@@ -44,7 +44,7 @@
 
 [Password strength detector with machine learning](https://dev.to/cyber_holics/password-strength-detector-with-machine-learning-3m5g)
 
-### Others(Tech in general)
+### Others (Tech in general)
 [How To Install Ubuntu On Intel Mac](https://dev.to/cyber_holics/how-to-install-ubuntu-on-intel-mac-53ko)
 
 
