@@ -3,6 +3,8 @@
 
 ### Technical articles about machine learning and deep learning including how-to guides
 
+[Understanding Deep Learning By Building Custom Neural Network With PyTorch](https://dev.to/cyber_holics/understanding-deep-learning-by-building-custom-neural-network-with-pytorch-1fhb)
+
 [Introduction To Tensors: The Building Blocks Of Artificial Intelligence](https://dev.to/cyber_holics/introduction-to-tensors-the-building-blocks-of-artificial-intelligence-3lcb)
 
 [Introduction To Natural Language Processing With Python: Language Detection As A Use Case](https://dev.to/cyber_holics/introduction-to-natural-language-processing-with-python-language-detection-as-a-use-case-4iao)
