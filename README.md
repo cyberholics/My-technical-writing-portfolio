@@ -38,6 +38,8 @@
 
 
 ### Technical articles related to the intersection of cybersecurity and artificial intelligence
+[How To Detect Cyber Injection Attack With Artificial intelligence](https://dev.to/cyber_holics/how-to-detect-cyber-injection-attack-with-artificial-intelligence-blp)
+
 [How to identify IoT devices with machine learning](https://dev.to/cyber_holics/how-to-identify-iot-devices-with-machine-learning-3j32)
 
 [Credit Card Fraud Detection: A Machine Learning Approach To Combat Financial Fraud](https://dev.to/cyber_holics/credit-card-fraud-detection-a-machine-learning-approach-to-combat-financial-fraud-dee)
