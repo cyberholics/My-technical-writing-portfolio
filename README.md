@@ -3,6 +3,8 @@
 
 ### Technical articles about machine learning and deep learning including how-to guides
 
+Welcome to my content creation portfolio! Here, you'll find examples of both technical and thought-provoking pieces I've crafted. Explore my diverse range of content, and feel free to reach out for collaborations. Enjoy the journey through my work!
+
 [Understanding Deep Learning By Building Custom Neural Network With PyTorch](https://dev.to/cyber_holics/understanding-deep-learning-by-building-custom-neural-network-with-pytorch-1fhb)
 
 [Introduction To Tensors: The Building Blocks Of Artificial Intelligence](https://dev.to/cyber_holics/introduction-to-tensors-the-building-blocks-of-artificial-intelligence-3lcb)
