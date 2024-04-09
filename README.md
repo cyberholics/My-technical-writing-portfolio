@@ -24,6 +24,11 @@ Welcome to my content creation portfolio! Here, you'll find examples of both tec
 [How to find the best hyperparameters for machine learning model](https://dev.to/cyber_holics/how-to-find-the-best-hyperparameters-for-machine-learning-model-1hbk)
 
 
+### Technical article about LLMs
+
+[Fine-Tuning Google Gemma for Python Question and Answer Task](https://dev.to/cyber_holics/fine-tuning-google-gemma-for-python-question-and-answer-task-27c7)
+
+
 
 ### Technical articles about deploying machine learning models to production (MLOPS)
 [A Step-by-Step Guide to Deploying a Machine Learning Model in a Docker Container](https://dev.to/cyber_holics/a-step-by-step-guide-to-deploying-a-machine-learning-model-in-a-docker-container-nkp)
