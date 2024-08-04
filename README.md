@@ -37,6 +37,9 @@ Welcome to my content creation portfolio! Here, you'll find examples of both tec
 
 
 ### Technical blogs about my thought pieces
+
+[Exploring Get Pieces for Developers: A Personal Review ](https://dev.to/victor_isaac_king/exploring-get-pieces-for-developers-a-personal-review-52ek)
+
 [Why You Shouldn't Contribute To Open Source](https://dev.to/cyber_holics/why-you-shouldnt-contribute-to-open-source-104l)
 
 [Will Artificial Intelligence Replace Programmers?](https://dev.to/cyber_holics/will-artificial-intelligence-replace-programmers-8bh)
