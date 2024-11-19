@@ -39,6 +39,8 @@ Welcome to my content creation portfolio! Here, you'll find examples of both tec
 
 ### Technical blogs about my thought pieces
 
+[My Journey Through the 2024 Kaggle X Fellowship Programme](https://dev.to/victor_isaac_king/my-journey-through-the-2024-kaggle-x-fellowship-programme-1o1e)
+
 [Exploring Get Pieces for Developers: A Personal Review ](https://dev.to/victor_isaac_king/exploring-get-pieces-for-developers-a-personal-review-52ek)
 
 [Why You Shouldn't Contribute To Open Source](https://dev.to/cyber_holics/why-you-shouldnt-contribute-to-open-source-104l)
