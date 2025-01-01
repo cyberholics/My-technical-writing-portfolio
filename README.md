@@ -54,6 +54,10 @@ Welcome to my content creation portfolio! Here, you'll find examples of both tec
 
 
 ### Technical articles related to the intersection of cybersecurity and artificial intelligence
+
+[AI Meets Cybersecurity: Understanding the Role of an AI SOC Analyst
+](https://www.linkedin.com/pulse/ai-meets-cybersecurity-understanding-role-soc-analyst-victor-oshimua-zkesf/?trackingId=U1svPLHcS3WPo4bEW%2BKSzA%3D%3D)
+
 [How To Detect Cyber Injection Attack With Artificial intelligence](https://dev.to/cyber_holics/how-to-detect-cyber-injection-attack-with-artificial-intelligence-blp)
 
 [How to identify IoT devices with machine learning](https://dev.to/cyber_holics/how-to-identify-iot-devices-with-machine-learning-3j32)
