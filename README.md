@@ -32,6 +32,7 @@ Welcome to my content creation portfolio! Here, you'll find examples of both tec
 
 [Fine-Tuning Google Gemma for Python Question and Answer Task](https://dev.to/cyber_holics/fine-tuning-google-gemma-for-python-question-and-answer-task-27c7)
 
+[Lists of open-source frameworks for building RAG applications](https://dev.to/victor_isaac_king/lists-of-open-source-frameworks-for-building-rag-applications-562e)
 
 
 ### Technical articles about deploying machine learning models to production (MLOPS)
