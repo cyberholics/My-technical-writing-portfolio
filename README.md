@@ -27,7 +27,7 @@ Welcome to my content creation portfolio! Here, you'll find examples of both tec
 
 ### Technical article about LLMs
 
-
+[Learning how to build AI agents in 2025](https://dev.to/victor_isaac_king/learning-how-to-build-ai-agents-in-2025-f4h)
 [LLM APIs vs. Self-Hosted Models: Finding the Best Fit for Your Business Needs](https://dev.to/victor_isaac_king/llm-apis-vs-self-hosted-models-finding-the-best-fit-for-your-business-needs-50i2)
 
 [Fine-Tuning Google Gemma for Python Question and Answer Task](https://dev.to/cyber_holics/fine-tuning-google-gemma-for-python-question-and-answer-task-27c7)
