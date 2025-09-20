@@ -1,7 +1,9 @@
 
 # Collection of my technical articles 
 
-Welcome to my content creation portfolio! Here, you'll find examples of both technical and thought-provoking pieces I've crafted. Explore my diverse range of content, and feel free to reach out for collaborations. Enjoy the journey through my work!
+Welcome to my content creation portfolio! Here, you'll find examples of both technical and thought-provoking pieces I've crafted. Enjoy the journey through my work, and feel free to reach out for collaborations. 
+
+**Ghostwritten articles for leading AI/ML blogs (samples available on request).**
 
 ### Technical articles about machine learning and deep learning including how-to guides
 [How to Deploy Segment Anything Model 2 (SAM 2) With Modelbit](https://dev.to/victor_isaac_king/how-to-deploy-segment-anything-model-2-sam-2-with-modelbit-47ni)
